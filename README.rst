@@ -5,7 +5,7 @@ Python Object-Oriented Tutorial (Lập trình hướng đối tượng trong Pyt
 
 * **Date:** Monday, 13th August, 2018
 
-.. setnum::
+.. sectnum::
 
 .. contents:: Contents
 
